@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolStuffInOnePlace", "CoolStuffInOnePlace\CoolStuffInOnePlace.csproj", "{588B0340-2E31-4BC7-83BE-819694AE6319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolStuffInOnePlace.Tests", "CoolStuffInOnePlace.Tests\CoolStuffInOnePlace.Tests.csproj", "{CBA06906-BCAB-48DA-B437-157D61FD125A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588B0340-2E31-4BC7-83BE-819694AE6319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588B0340-2E31-4BC7-83BE-819694AE6319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588B0340-2E31-4BC7-83BE-819694AE6319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588B0340-2E31-4BC7-83BE-819694AE6319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA06906-BCAB-48DA-B437-157D61FD125A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA06906-BCAB-48DA-B437-157D61FD125A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA06906-BCAB-48DA-B437-157D61FD125A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA06906-BCAB-48DA-B437-157D61FD125A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF50F5F2-0522-494F-B17C-5754AD66C616}
+	EndGlobalSection
+EndGlobal
